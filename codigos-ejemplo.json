@@ -1,0 +1,8 @@
+{
+  "minutos": 40,
+  "codigos": [
+    { "nombre": "Actividad 1", "hash": "PEGA_AQUI_EL_HASH_1", "fecha": "2026-10-26" },
+    { "nombre": "Actividad 2", "hash": "PEGA_AQUI_EL_HASH_2", "fecha": "2026-10-28" },
+    { "nombre": "Repaso (todo el mes)", "hash": "PEGA_AQUI_EL_HASH_3", "minutos": 20 }
+  ]
+}
